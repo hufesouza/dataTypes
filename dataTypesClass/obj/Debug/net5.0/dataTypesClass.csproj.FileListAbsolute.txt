@@ -1,0 +1,15 @@
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/bin/Debug/net5.0/dataTypesClass.deps.json
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/bin/Debug/net5.0/dataTypesClass.runtimeconfig.json
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/bin/Debug/net5.0/dataTypesClass.runtimeconfig.dev.json
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/bin/Debug/net5.0/dataTypesClass.dll
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/bin/Debug/net5.0/ref/dataTypesClass.dll
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/bin/Debug/net5.0/dataTypesClass.pdb
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.csproj.AssemblyReference.cache
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.AssemblyInfoInputs.cache
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.AssemblyInfo.cs
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.dll
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/ref/dataTypesClass.dll
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.pdb
+/Users/hugof/Projects/dataTypesClass/dataTypesClass/obj/Debug/net5.0/dataTypesClass.genruntimeconfig.cache
